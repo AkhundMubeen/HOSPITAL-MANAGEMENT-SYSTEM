@@ -18,11 +18,11 @@ A simple Java console-based Hospital Management System that helps manage wards, 
 2. Run the program:
    java Main
 
-Output Screenshots:
-output_img_1
-output_img_2
+## Output Screenshots:
+output_img_1.jpg
+output_img_2.jpg
 
-Future Improvements
+## Future Improvements
 For in-depth ideas around AI/ML integration and symptom-based diagnosis, see:
 👉 FUTURE_PLANS.md
 
