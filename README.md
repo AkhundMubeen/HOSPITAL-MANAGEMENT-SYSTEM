@@ -29,5 +29,6 @@ For in-depth ideas around AI/ML integration and symptom-based diagnosis, see:
 
 [👉 FUTURE_PLANS.md](FUTURE_PLANS.md)
 
-Made by Akhund Mubeen
+## Made by Mubeen Akhund
+
 For the NeuraViaHacks 2025 Hackathon
