@@ -16,10 +16,12 @@ A simple Java console-based Hospital Management System that helps manage wards, 
    ```bash
    javac Main.java
 2. Run the program:
+   
    java Main
 
 ## Output Screenshots:
 output_img_1.jpg
+
 output_img_2.jpg
 
 ## Future Improvements
