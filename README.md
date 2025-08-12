@@ -26,7 +26,8 @@ A simple Java console-based Hospital Management System that helps manage wards, 
 
 ## Future Improvements
 For in-depth ideas around AI/ML integration and symptom-based diagnosis, see:
-👉 FUTURE_PLANS.md
+
+[👉 FUTURE_PLANS.md](FUTURE_PLANS.md)
 
 Made by Akhund Mubeen
 For the NeuraViaHacks 2025 Hackathon
